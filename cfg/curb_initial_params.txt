@@ -1,0 +1,11 @@
+15
+37 38 39 40 41 42 43 44 45 46 47 48 49 51 52
+100
+0.8 2 50 0.5
+/home/zjh/文档/image
+/home/zjh/文档/pcd
+/home/zjh/shared_dir/PINet_new/TuSimple/outputs/results
+/home/zjh/shared_dir/dataset/data_road/testing/image_2
+/home/zjh/文档/road_pcd
+/home/zjh/文档/road_pcd1
+/home/zjh/文档/lane_pcd

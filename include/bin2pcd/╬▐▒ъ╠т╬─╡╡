@@ -1,0 +1,2 @@
+i=1;for x in /home/zjh/Dataset/KITTI_road/data_road_velodyne/testing/velodyne/*.bin; do /mnt/data/shared_dir/work/map_label/include/bin2pcd/build/bin2pcd --infile $x --outfile /home/zjh/文档/pcd/$i.pcd; let i=i+1; done
+
